@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>JM Waters Image Analyzer</title>
     <style>
         body{
             background-color: rgb(30, 30, 30);
@@ -28,9 +28,9 @@
 </head>
 <body>
     <p>
-        <form action="index.php" method = "post">
+        <form action="index.php" method = "get">
             라즈베리파이 ip 주소 
-            <input type="text" name="ip"> 
+            <input type="text" name="ip" value="192.168.0.29"> 
             <input type="submit" value="데이터베이스 연결">
         </form>
     <p/>

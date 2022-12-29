@@ -11,7 +11,7 @@
         padding-top: 40px;
         padding-bottom: 15px;
         margin-top: 20px;
-        margin-bottom: 70px;
+        margin-bottom: 30px;
     }
     p{
         color: rgb(<?=$white?>);
@@ -51,8 +51,8 @@
         border-top: 1px solid rgb(<?=$gray?>);
     }
     #chartArea{
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 10%;
+        margin-right: 10%;
     }
     #num{
         width: 5%;

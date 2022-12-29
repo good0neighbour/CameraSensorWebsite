@@ -1,5 +1,6 @@
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
-            <canvas id="myChart"></canvas>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+            <canvas id="chart0"></canvas>
+            <canvas id="chart1"></canvas>
         <form action="index.php" method="get">
             <p style="margin-left: 20%; font-weight: 600;">
                 표시 개수 
